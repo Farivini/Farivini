@@ -1,4 +1,4 @@
-### ✔️ Estudando : 
-### 👨‍💻 Engenharia da computação && Big data
+### ✔️ Estudante de Engenharia: 
+### 👨‍💻 Computação && Big data
 
 
