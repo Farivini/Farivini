@@ -2,12 +2,11 @@
 
 
 
-### ✔️ Estudante de Engenharia: 
+### ✔️ Analista de dados
 ### 👨‍💻 Computação && Big data
 
 ##  📂 Python
-##  📂 C++
-##  📂 Javascript
+##  📂 Power BI
 
-##  💻 Especializado em automatizar processos
+##  💻 Especializado em automatizar processos e analisar dados
 
