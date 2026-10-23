@@ -1,5 +1,5 @@
 <div align="left">
-  <img src="./assets/header.svg" alt="Vinicius Farineli — Dados, IA aplicada e automação" width="100%" />
+  <img src="./assets/header.svg" alt="Vinicius Farineli Freire — Dados, IA aplicada e automação" width="100%" />
 </div>
 
 <br/>
@@ -28,7 +28,7 @@ Participação em projeto industrial de Machine Learning e visão computacional 
 | Área | Tecnologias |
 | :-- | :-- |
 | Dados | Python · SQL · PySpark · Databricks · Airflow |
-| IA e ML | Databricks Genie · LLMs · scikit-learn · Prophet · Vertex AI |
+| IA e ML | Databricks Genie · LLMs · Prophet · Vertex AI |
 | APIs e entrega | FastAPI · REST · Docker · GitHub Actions · Azure · GCP |
 
 ### Formação
